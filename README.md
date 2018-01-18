@@ -8,8 +8,12 @@ emmm个人复习进度慢得骚虱子所以各位见谅哈<br>
 -----
 ## 01.18 Update
 多媒体系统Week3,4思维导图上传。
-昨天Xmind更新了，测试版结束了，现在导出pdf有watermark了🙃
-很有意思。刚看完watermark...
+昨天Xmind更新了，测试版结束了，现在导出pdf有watermark了🙃<br>
+很有意思。刚看完watermark...<br>
+<br>
+16:37 update<br>
+sorry有一个小错误噢！⬇️⬇️
+![](0118update01.png)
 
 ## 01.16 Update
 多媒体系统Week1,2思维导图done。
