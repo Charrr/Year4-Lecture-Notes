@@ -14,7 +14,7 @@ emmm个人复习进度慢得骚虱子所以各位见谅哈<br>
 **16:37 update**
 <br>sorry三四周里有一个小错误噢！⬇️⬇️
 <div><img src="0118update01.png" width = "524" height = "256" align=center /><div/>
-<br>
+
 **21:30 update**
 <br>上传“多媒体例题整理（by Jie小宝Huang）.pdf” 为大天使黄J小姐姐总结，把课上SonG讲的题拍下来后手码出来了！在此转载！为你J打call！
 
