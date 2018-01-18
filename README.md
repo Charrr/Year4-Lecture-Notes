@@ -7,16 +7,17 @@ emmm个人复习进度慢得骚虱子所以各位见谅哈<br>
 
 -----
 ## 01.18 Update
+
+**21:30 update**
+上传“多媒体例题整理（by Jie小宝Huang）.pdf” 为大天使黄J小姐姐总结，把课上SonG讲的题拍下来后手码出来了！在此转载！为你J打call！
+
+**16:37 update**
+sorry三四周里有一个小错误噢！⬇️⬇️
+<div><img src="0118update01.png" width = "524" height = "256" align=center /><div/>
+
 多媒体系统Week3,4思维导图上传。
 昨天Xmind更新了，测试版结束了，现在导出pdf有watermark了🙃<br>
 很有意思。刚看完watermark...<br>
-<br>
-**16:37 update**
-<br>sorry三四周里有一个小错误噢！⬇️⬇️
-<div><img src="0118update01.png" width = "524" height = "256" align=center /><div/>
-
-**21:30 update**
-<br>上传“多媒体例题整理（by Jie小宝Huang）.pdf” 为大天使黄J小姐姐总结，把课上SonG讲的题拍下来后手码出来了！在此转载！为你J打call！
 
 ## 01.16 Update
 多媒体系统Week1,2思维导图done。
