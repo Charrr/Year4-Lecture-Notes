@@ -4,6 +4,6 @@
 -----
 思维导图预览在此：<br>
 <div>
-<img src="多媒体系统思维导图 Week1,2 预览.png" width = "512" align=center />
-<img src="多媒体系统思维导图 Week3,4 预览.png" width = "512" align=center />
+<img src="多媒体系统思维导图 Week1,2 预览.png" width = "640" align=center />
+<img src="多媒体系统思维导图 Week3,4 预览.png" width = "640" align=center />
 <div/>
